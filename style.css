@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;700&display=swap');
+
+
+
+
+body{
+    background-image: url(https://th.bing.com/th/id/R.adeb40d1c6a8fb3c253cc3dfe08a8f66?rik=8beSMQlVuUTUqQ&pid=ImgRaw&r=0);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+    padding: 201px;
+}
+
+.container{
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Comfortaa', cursive;
+    padding: 201px;
+    border: 10px solid white;
+    border-style:dotted;
+}
+
+.txtpizza{
+    background-image: url("https://th.bing.com/th/id/R.07b5b3c1716d614894ebfa784b02f582?rik=iRa4yLgpLH5fUA&pid=ImgRaw&r=0");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 300px;
+    font-family: 'Comfortaa', cursive; 
+    color: #fff;
+    font-size: 30px;
+    padding: 100px;
+}
+
+.mini{
+    background-image: url(https://media.nidux.net/pull/350/350/10680/4-product-5efe6a242caa8-pizzapreparatopepperonicomidaadomiciliodeliverydecomida001.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 300px;
+    font-family: 'Comfortaa', cursive;
+    color: #fff;
+    font-size: 30px;
+    padding: 100px;
+}
+
+.txtcomun{
+    background-image: url(https://d2j6dbq0eux0bg.cloudfront.net/images/62323824/2419075143.jpg);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 300px;
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+    padding: 100px;
+}
+
+.txtfaina{
+    background-image: url(https://fotos.perfil.com/2017/07/01/trim/1280/720/maxresdefault-1.jpg);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 300px;
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+    padding: 100px;
+}
+
+.casero{
+    background-image: url(https://platosargentinos.com/wp-content/uploads/2021/06/%F0%9F%8D%94%F0%9F%8D%94-PAN-CASERO-PARA-HAMBURGUESA-%F0%9F%8D%94%F0%9F%8D%94-Platos-Argentinos-1.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 300px;
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+    padding: 100px;
+}
+
+.horno{
+    background-image: url(https://www.alfareriaduero.es/3368-medium_default/horno-de-lena-ladrillo-curvo.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 350px;
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    color: #fff;
+    font-size: 35px;
+    padding: 300px;
+}
+
+.parrilla{
+    background-image: url(https://th.bing.com/th/id/R.d0c6d525d3f13e05ba64e6f716fa4b4c?rik=P0wQ%2fAqNPu0Y3Q&pid=ImgRaw&r=0);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 350px;
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    color: #fff;
+    font-size: 35px;
+    padding: 200px;
+}
+
+a{
+    display: block;
+    width: 150px;
+    font-family: 'Comfortaa', cursive;
+    font-weight: 700;
+    background-color: greenyellow;
+    border-radius: 10px;
+    padding: 15px 25px;
+    margin: 255px 275px;
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background-color: transparent;
+    border: 2px solid greenyellow;
+    color: greenyellow;
+}
+
+.flex{
+    display: flex;
+}
+
+.contact{
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    color: #fff;
+    font-size: 45px;
+    padding: 200px;
+}
